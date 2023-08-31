@@ -1,0 +1,1582 @@
+[
+  {
+    "invitation": [
+      {
+        "id": "8965b277-3d98-4e51-bf99-f89e12cb9b20",
+        "status": "Pending",
+        "sent_at": "2023-08-30T13:14:55.428Z",
+        "accepted_at": "2023-08-30T04:07:14.888Z",
+        "created_at": "2023-08-30T14:00:31.123Z",
+        "updated_at": "2023-08-30T17:20:10.006Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c07b1de7-9a5a-439e-8fb2-d09af1c65dcf",
+        "status": "Accepted",
+        "sent_at": "2023-08-30T03:18:50.988Z",
+        "accepted_at": "2023-08-30T20:41:27.375Z",
+        "created_at": "2023-08-30T22:22:48.544Z",
+        "updated_at": "2023-08-30T15:16:25.247Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fef647f2-71e4-4262-ab8f-4dd22548e9bd",
+        "status": "Declined",
+        "sent_at": "2023-08-30T09:04:08.358Z",
+        "accepted_at": "2023-08-30T04:56:07.786Z",
+        "created_at": "2023-08-30T11:34:40.468Z",
+        "updated_at": "2023-08-30T07:27:34.898Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b4a5ac6b-9699-47ce-85a2-afabbc7d50dc",
+        "status": "Expired",
+        "sent_at": "2023-08-30T02:53:51.995Z",
+        "accepted_at": "2023-08-30T21:07:08.767Z",
+        "created_at": "2023-08-30T10:30:09.645Z",
+        "updated_at": "2023-08-31T02:21:47.791Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4280334f-e358-4f44-af5f-42ac700e8e26",
+        "status": "Cancelled",
+        "sent_at": "2023-08-30T15:16:10.241Z",
+        "accepted_at": "2023-08-30T12:06:14.639Z",
+        "created_at": "2023-08-30T12:53:29.255Z",
+        "updated_at": "2023-08-31T01:49:13.210Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "financial_record": [
+      {
+        "id": "ac5e558b-4ef4-4c64-bfb3-d495c0a47870",
+        "transaction_date": "2023-08-30T17:14:30.356Z",
+        "amount": 18295,
+        "transaction_type": "Deposit",
+        "account_type": "Savings",
+        "description": "Salary payment",
+        "created_at": "2023-08-31T01:13:22.177Z",
+        "updated_at": "2023-08-31T00:59:16.413Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "711d25fc-6456-4b3c-9069-1734237f8f2e",
+        "transaction_date": "2023-08-30T22:38:49.459Z",
+        "amount": 99116,
+        "transaction_type": "Withdrawal",
+        "account_type": "Checking",
+        "description": "Utility bill payment",
+        "created_at": "2023-08-30T23:28:50.616Z",
+        "updated_at": "2023-08-30T13:28:55.276Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "47297cfd-bca4-4a4e-b2e8-f8c4ca6d5060",
+        "transaction_date": "2023-08-30T19:37:18.593Z",
+        "amount": 93155,
+        "transaction_type": "Transfer",
+        "account_type": "Credit Card",
+        "description": "Stock purchase",
+        "created_at": "2023-08-30T17:47:09.093Z",
+        "updated_at": "2023-08-30T15:19:37.123Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9e518a6e-443d-4865-ba7a-907b92a5df93",
+        "transaction_date": "2023-08-30T03:34:07.527Z",
+        "amount": 74529,
+        "transaction_type": "Payment",
+        "account_type": "Investment",
+        "description": "Loan repayment",
+        "created_at": "2023-08-30T07:33:39.333Z",
+        "updated_at": "2023-08-30T23:59:26.484Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "37bd7ff6-332d-4033-a68b-6a2fa342619b",
+        "transaction_date": "2023-08-30T21:13:20.947Z",
+        "amount": 28357,
+        "transaction_type": "Refund",
+        "account_type": "Loan",
+        "description": "Vendor invoice payment",
+        "created_at": "2023-08-30T09:19:52.798Z",
+        "updated_at": "2023-08-30T06:23:34.349Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "9622140d-c40d-4bb1-aef2-b0fae45a1e0e",
+        "email": "Maiya_Predovic76@yahoo.com",
+        "firstName": "Jonathon",
+        "lastName": "Rippin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/82386452",
+        "tenantId": null
+      },
+      {
+        "reference": "c8d5fd29-37e5-4d76-8b17-d27c47105806",
+        "email": "Lou.Lind@hotmail.com",
+        "firstName": "Joy",
+        "lastName": "Prohaska",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/859.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2c1d69d0-fff2-40e3-925f-be5b95674c5c",
+        "email": "Tania_Becker@hotmail.com",
+        "firstName": "Deon",
+        "lastName": "Crooks",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22399735",
+        "tenantId": null
+      },
+      {
+        "reference": "25cace09-c4f1-42bf-8b74-0de547789497",
+        "email": "Letha.Beer88@gmail.com",
+        "firstName": "Eriberto",
+        "lastName": "Durgan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74953918",
+        "tenantId": null
+      },
+      {
+        "reference": "0334a1ae-2d95-435d-8099-57fe82040128",
+        "email": "Elsie34@yahoo.com",
+        "firstName": "Ozella",
+        "lastName": "Conn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28494382",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "invitation": [
+      {
+        "id": "5a41b262-285b-405d-a560-9d540c31c5c9",
+        "status": "Pending",
+        "sent_at": "2023-08-30T19:50:20.026Z",
+        "accepted_at": "2023-08-30T13:29:58.273Z",
+        "created_at": "2023-08-30T17:50:39.113Z",
+        "updated_at": "2023-08-30T03:34:35.996Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9b39eded-edc8-497f-94e3-56d691e08b40",
+        "status": "Accepted",
+        "sent_at": "2023-08-30T19:47:13.637Z",
+        "accepted_at": "2023-08-30T13:16:27.724Z",
+        "created_at": "2023-08-31T02:37:21.451Z",
+        "updated_at": "2023-08-30T11:12:39.922Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "af85ad02-c319-4964-adf4-30df5b4e893c",
+        "status": "Declined",
+        "sent_at": "2023-08-30T16:09:44.464Z",
+        "accepted_at": "2023-08-31T00:11:55.225Z",
+        "created_at": "2023-08-30T03:35:26.218Z",
+        "updated_at": "2023-08-30T05:03:54.508Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2384a9bf-04cb-4cca-9148-49e766e5aac2",
+        "status": "Expired",
+        "sent_at": "2023-08-30T16:08:12.385Z",
+        "accepted_at": "2023-08-30T19:09:21.774Z",
+        "created_at": "2023-08-30T19:44:54.052Z",
+        "updated_at": "2023-08-30T03:18:12.195Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d304d460-8769-473d-8055-e04cee346b93",
+        "status": "Cancelled",
+        "sent_at": "2023-08-30T10:25:35.371Z",
+        "accepted_at": "2023-08-30T12:00:18.652Z",
+        "created_at": "2023-08-30T18:26:04.968Z",
+        "updated_at": "2023-08-30T21:36:10.445Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "financial_record": [
+      {
+        "id": "ac5742b3-c547-4c38-8579-5c08712aa1c3",
+        "transaction_date": "2023-08-30T14:09:49.865Z",
+        "amount": 32639,
+        "transaction_type": "Income",
+        "account_type": "Savings",
+        "description": "Salary payment",
+        "created_at": "2023-08-30T06:01:05.379Z",
+        "updated_at": "2023-08-30T06:22:43.648Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3fe9dccd-e78d-44db-aac6-09082af3b454",
+        "transaction_date": "2023-08-31T01:00:55.523Z",
+        "amount": 44385,
+        "transaction_type": "Expense",
+        "account_type": "Checking",
+        "description": "Office rent",
+        "created_at": "2023-08-30T12:59:31.762Z",
+        "updated_at": "2023-08-30T08:39:54.395Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "08a03189-f746-46b9-8f57-2bf64c401015",
+        "transaction_date": "2023-08-30T18:34:58.490Z",
+        "amount": 80191,
+        "transaction_type": "Investment",
+        "account_type": "Credit Card",
+        "description": "Stock purchase",
+        "created_at": "2023-08-30T13:07:51.334Z",
+        "updated_at": "2023-08-30T13:41:32.719Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4e305dee-3204-400e-bea6-c483c688ed77",
+        "transaction_date": "2023-08-30T11:23:32.750Z",
+        "amount": 56954,
+        "transaction_type": "Loan",
+        "account_type": "Investment",
+        "description": "Loan repayment",
+        "created_at": "2023-08-30T09:40:16.977Z",
+        "updated_at": "2023-08-30T14:21:36.819Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b88153b6-114c-485a-ba5a-0d2452a6c31e",
+        "transaction_date": "2023-08-30T14:26:39.851Z",
+        "amount": 77990,
+        "transaction_type": "Donation",
+        "account_type": "Loan",
+        "description": "Charitable donation",
+        "created_at": "2023-08-31T01:14:11.840Z",
+        "updated_at": "2023-08-30T08:18:39.775Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ed2ce7b9-5681-4653-83f7-56d7cbf44c3f",
+        "email": "Delia44@hotmail.com",
+        "firstName": "Rebekah",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98737759",
+        "tenantId": null
+      },
+      {
+        "reference": "aeda4615-b400-4ff1-820a-9729c5648674",
+        "email": "Isaias82@gmail.com",
+        "firstName": "Dorcas",
+        "lastName": "Bruen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/136.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0f91590d-ca34-4c6a-8e34-3b787e8194e7",
+        "email": "Elaina.Hartmann@hotmail.com",
+        "firstName": "Jessyca",
+        "lastName": "Green",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50175794",
+        "tenantId": null
+      },
+      {
+        "reference": "6bffd3b8-0e94-43b0-9c6e-f74da276259d",
+        "email": "Rogers21@hotmail.com",
+        "firstName": "Howard",
+        "lastName": "Wilkinson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34609238",
+        "tenantId": null
+      },
+      {
+        "reference": "faf4137c-0904-4475-98f1-54d605faf5af",
+        "email": "Melisa87@gmail.com",
+        "firstName": "Dale",
+        "lastName": "Swift",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73995834",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "invitation": [
+      {
+        "id": "6cffdb07-75ea-48a8-93e0-b2243dc34c9a",
+        "status": "Pending",
+        "sent_at": "2023-08-30T15:00:59.171Z",
+        "accepted_at": "2023-08-31T00:24:22.708Z",
+        "created_at": "2023-08-30T07:07:08.815Z",
+        "updated_at": "2023-08-30T18:53:45.805Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "62506932-2864-4869-a296-40029ee2d60d",
+        "status": "Accepted",
+        "sent_at": "2023-08-31T01:51:37.860Z",
+        "accepted_at": "2023-08-30T09:31:21.650Z",
+        "created_at": "2023-08-30T14:06:43.957Z",
+        "updated_at": "2023-08-30T18:32:41.300Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc8ec87a-110f-4079-8947-82906183d6c5",
+        "status": "Declined",
+        "sent_at": "2023-08-30T11:37:14.518Z",
+        "accepted_at": "2023-08-31T02:09:43.097Z",
+        "created_at": "2023-08-31T02:38:53.213Z",
+        "updated_at": "2023-08-31T00:45:28.264Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "474ac41f-7cf2-4fd4-9304-c02be826ca7a",
+        "status": "Expired",
+        "sent_at": "2023-08-30T10:29:43.488Z",
+        "accepted_at": "2023-08-30T15:58:22.285Z",
+        "created_at": "2023-08-30T18:03:08.937Z",
+        "updated_at": "2023-08-31T01:56:58.856Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c38fb53a-229a-407f-8a88-9a75b957603e",
+        "status": "Cancelled",
+        "sent_at": "2023-08-30T18:55:54.900Z",
+        "accepted_at": "2023-08-30T04:44:08.103Z",
+        "created_at": "2023-08-30T16:07:54.797Z",
+        "updated_at": "2023-08-30T19:40:10.490Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "financial_record": [
+      {
+        "id": "b8c901ab-16cd-453a-bedb-7c94b9a0c02b",
+        "transaction_date": "2023-08-30T19:47:23.655Z",
+        "amount": 79582,
+        "transaction_type": "Deposit",
+        "account_type": "Savings",
+        "description": "Salary payment for January",
+        "created_at": "2023-08-30T16:25:29.400Z",
+        "updated_at": "2023-08-30T07:44:20.027Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "87a5415d-f7c0-41c7-87f1-ee0a377ae423",
+        "transaction_date": "2023-08-30T05:26:51.404Z",
+        "amount": 68774,
+        "transaction_type": "Withdrawal",
+        "account_type": "Checking",
+        "description": "Utility bill payment",
+        "created_at": "2023-08-30T11:52:17.994Z",
+        "updated_at": "2023-08-30T18:38:20.521Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4f150d88-b618-4db2-94f8-e54392942e44",
+        "transaction_date": "2023-08-30T21:11:08.863Z",
+        "amount": 96479,
+        "transaction_type": "Payment",
+        "account_type": "Credit Card",
+        "description": "Stock purchase",
+        "created_at": "2023-08-30T06:01:32.242Z",
+        "updated_at": "2023-08-30T06:50:52.580Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8d25ef7c-c087-4a66-96c3-b2f90a27fb1b",
+        "transaction_date": "2023-08-30T09:42:50.820Z",
+        "amount": 78176,
+        "transaction_type": "Transfer",
+        "account_type": "Investment",
+        "description": "Loan repayment",
+        "created_at": "2023-08-30T09:55:15.785Z",
+        "updated_at": "2023-08-30T17:59:48.897Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0df03bc1-6cf7-4f2b-af0d-c3196caf5916",
+        "transaction_date": "2023-08-30T12:48:05.451Z",
+        "amount": 96535,
+        "transaction_type": "Refund",
+        "account_type": "Loan",
+        "description": "Refund for returned item",
+        "created_at": "2023-08-30T18:45:15.779Z",
+        "updated_at": "2023-08-30T16:30:02.136Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cb15f735-0061-4cae-a3ef-14b3b559b68d",
+        "email": "Kaley4@yahoo.com",
+        "firstName": "George",
+        "lastName": "Smith",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/342.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "06b8bfff-ef16-49f0-bf92-32adc9fa0fc4",
+        "email": "Una_Feeney75@gmail.com",
+        "firstName": "Rory",
+        "lastName": "Homenick",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/805.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6e202ec8-a8b5-4452-b606-1d02f89192e5",
+        "email": "Jody.Pagac@hotmail.com",
+        "firstName": "Marvin",
+        "lastName": "Howe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/190.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "58804ca9-5bee-4d90-bd88-d1463d41d881",
+        "email": "Lindsey2@hotmail.com",
+        "firstName": "Dakota",
+        "lastName": "Hudson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7573184",
+        "tenantId": null
+      },
+      {
+        "reference": "4c06e1c5-075e-4d55-ba72-d0bb71998d01",
+        "email": "Shanon.Lang53@gmail.com",
+        "firstName": "Allie",
+        "lastName": "Bailey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/897.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "invitation": [
+      {
+        "id": "cc8de1f5-6c60-4ed5-b769-97b4145a4815",
+        "status": "Pending",
+        "sent_at": "2023-08-30T17:28:14.271Z",
+        "accepted_at": "2023-08-30T09:39:27.341Z",
+        "created_at": "2023-08-30T07:32:09.524Z",
+        "updated_at": "2023-08-30T18:40:41.208Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a42f62a4-e543-4f17-b03c-a7793b117422",
+        "status": "Accepted",
+        "sent_at": "2023-08-30T20:51:25.600Z",
+        "accepted_at": "2023-08-30T16:25:34.385Z",
+        "created_at": "2023-08-30T03:32:21.939Z",
+        "updated_at": "2023-08-30T11:21:12.683Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce614ed2-411b-476f-af88-f42883dc790f",
+        "status": "Declined",
+        "sent_at": "2023-08-30T04:26:02.838Z",
+        "accepted_at": "2023-08-30T15:07:35.069Z",
+        "created_at": "2023-08-30T17:46:03.799Z",
+        "updated_at": "2023-08-30T15:23:57.941Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5f300917-60c6-4879-a72f-c2b7b6129d59",
+        "status": "Expired",
+        "sent_at": "2023-08-30T17:43:43.809Z",
+        "accepted_at": "2023-08-30T09:32:00.649Z",
+        "created_at": "2023-08-30T18:18:44.111Z",
+        "updated_at": "2023-08-30T10:49:10.078Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "163d46be-4d9b-40a9-bc7e-1c499d715b0b",
+        "status": "Cancelled",
+        "sent_at": "2023-08-30T09:46:13.873Z",
+        "accepted_at": "2023-08-30T21:42:01.282Z",
+        "created_at": "2023-08-30T18:20:57.540Z",
+        "updated_at": "2023-08-30T09:40:47.332Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "financial_record": [
+      {
+        "id": "29994574-b91e-4b1f-bc86-f34b634985b9",
+        "transaction_date": "2023-08-30T16:15:12.697Z",
+        "amount": 34000,
+        "transaction_type": "Deposit",
+        "account_type": "Checking",
+        "description": "Monthly rent payment",
+        "created_at": "2023-08-30T06:50:50.203Z",
+        "updated_at": "2023-08-30T19:33:35.331Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "03319c2e-3ceb-4ac4-b54a-d726c0cf5f0b",
+        "transaction_date": "2023-08-30T23:25:10.418Z",
+        "amount": 46707,
+        "transaction_type": "Withdrawal",
+        "account_type": "Savings",
+        "description": "Purchase of office supplies",
+        "created_at": "2023-08-30T19:02:27.358Z",
+        "updated_at": "2023-08-30T20:39:24.636Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "56a54733-63d2-4662-9bd2-8ab1b9cc6b5b",
+        "transaction_date": "2023-08-30T10:26:58.074Z",
+        "amount": 20086,
+        "transaction_type": "Transfer",
+        "account_type": "Credit Card",
+        "description": "Salary deposit",
+        "created_at": "2023-08-30T19:43:03.117Z",
+        "updated_at": "2023-08-30T10:20:15.609Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "68fbd9db-2bd3-4966-9565-31100c67b89d",
+        "transaction_date": "2023-08-30T05:52:49.617Z",
+        "amount": 55048,
+        "transaction_type": "Payment",
+        "account_type": "Investment",
+        "description": "Dividend payment",
+        "created_at": "2023-08-30T16:16:55.960Z",
+        "updated_at": "2023-08-30T04:40:16.533Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8922645e-2b3e-425d-a8d8-635e98d9aa9b",
+        "transaction_date": "2023-08-30T16:15:08.520Z",
+        "amount": 23953,
+        "transaction_type": "Refund",
+        "account_type": "Loan",
+        "description": "Loan repayment",
+        "created_at": "2023-08-30T09:40:31.797Z",
+        "updated_at": "2023-08-30T13:41:51.810Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f7ad8601-427e-4fa9-b0ed-b6d8586cf9cc",
+        "email": "Cristian.Steuber@yahoo.com",
+        "firstName": "Savanah",
+        "lastName": "D'Amore",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86400010",
+        "tenantId": null
+      },
+      {
+        "reference": "ba58fafe-6809-42fc-9038-212e9f169438",
+        "email": "Jesus_Hills51@gmail.com",
+        "firstName": "Marjorie",
+        "lastName": "Kemmer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18691709",
+        "tenantId": null
+      },
+      {
+        "reference": "422279d6-3393-4d77-86cc-760e87ce2f97",
+        "email": "Tristin84@yahoo.com",
+        "firstName": "Schuyler",
+        "lastName": "Barrows",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37399689",
+        "tenantId": null
+      },
+      {
+        "reference": "ad4242f1-3ee1-4818-b20b-3067380fd159",
+        "email": "Amina.Terry@hotmail.com",
+        "firstName": "Francisca",
+        "lastName": "Abernathy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/348.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "55739f85-057a-42bb-a97e-0efb23e4dd2c",
+        "email": "Raleigh56@yahoo.com",
+        "firstName": "Katharina",
+        "lastName": "Corkery",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1116.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "invitation": [
+      {
+        "id": "0144bd80-0701-4fb8-a144-2b36dd19072f",
+        "status": "pending",
+        "sent_at": "2023-08-30T08:17:19.301Z",
+        "accepted_at": "2023-08-30T17:38:10.225Z",
+        "created_at": "2023-08-30T04:50:11.159Z",
+        "updated_at": "2023-08-30T06:28:29.597Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "891e5229-1b4d-489a-b2bd-532798e3faaa",
+        "status": "accepted",
+        "sent_at": "2023-08-30T18:00:46.699Z",
+        "accepted_at": "2023-08-30T03:02:35.725Z",
+        "created_at": "2023-08-31T00:57:17.216Z",
+        "updated_at": "2023-08-30T12:57:40.546Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0c1f7eed-d5ba-4fd3-b89f-9a8e990ff29a",
+        "status": "declined",
+        "sent_at": "2023-08-30T17:34:53.345Z",
+        "accepted_at": "2023-08-30T10:37:50.511Z",
+        "created_at": "2023-08-30T16:55:05.907Z",
+        "updated_at": "2023-08-30T18:00:07.096Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "79ee492e-a02c-4fad-b599-2f6e6b2a12bb",
+        "status": "expired",
+        "sent_at": "2023-08-30T04:06:27.364Z",
+        "accepted_at": "2023-08-30T13:26:13.627Z",
+        "created_at": "2023-08-30T06:58:11.324Z",
+        "updated_at": "2023-08-30T16:03:38.509Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1c14d0bc-7691-45b4-9551-a1b132f00da0",
+        "status": "cancelled",
+        "sent_at": "2023-08-30T19:44:57.526Z",
+        "accepted_at": "2023-08-30T17:59:42.353Z",
+        "created_at": "2023-08-30T08:58:55.418Z",
+        "updated_at": "2023-08-30T05:09:17.056Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "financial_record": [
+      {
+        "id": "561c0af3-946f-41e0-8dcf-67856f7692f4",
+        "transaction_date": "2023-08-30T02:58:12.930Z",
+        "amount": 40809,
+        "transaction_type": "income",
+        "account_type": "savings",
+        "description": "Payment for services rendered",
+        "created_at": "2023-08-30T05:12:42.668Z",
+        "updated_at": "2023-08-31T02:03:19.147Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c3b9c935-a132-4ac8-a131-3119e4e49100",
+        "transaction_date": "2023-08-30T15:14:54.324Z",
+        "amount": 56755,
+        "transaction_type": "expense",
+        "account_type": "checking",
+        "description": "Purchase of office supplies",
+        "created_at": "2023-08-30T17:00:39.805Z",
+        "updated_at": "2023-08-30T15:34:10.775Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b77564af-4bf9-473c-804b-b8f6713b0c90",
+        "transaction_date": "2023-08-30T22:10:45.560Z",
+        "amount": 32759,
+        "transaction_type": "investment",
+        "account_type": "credit card",
+        "description": "Dividend payout",
+        "created_at": "2023-08-30T10:55:44.628Z",
+        "updated_at": "2023-08-30T07:13:07.282Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "38bcc23f-8055-49b6-8571-2f2890bd7881",
+        "transaction_date": "2023-08-30T07:56:48.442Z",
+        "amount": 4916,
+        "transaction_type": "loan",
+        "account_type": "investment",
+        "description": "Loan repayment",
+        "created_at": "2023-08-30T22:15:29.512Z",
+        "updated_at": "2023-08-30T17:13:52.895Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "451607d3-c3f6-4fc0-88e2-cedd59824fd4",
+        "transaction_date": "2023-08-30T11:36:21.919Z",
+        "amount": 94126,
+        "transaction_type": "donation",
+        "account_type": "loan",
+        "description": "Charitable donation",
+        "created_at": "2023-08-30T18:23:52.172Z",
+        "updated_at": "2023-08-30T09:06:53.851Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2f9b8192-d335-4dc4-866a-09130a29b7f6",
+        "email": "Torrance31@gmail.com",
+        "firstName": "Keyon",
+        "lastName": "Romaguera",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/541.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "94631103-b4e6-4bb8-8ca3-83ac3cf782ff",
+        "email": "Mertie_Fahey93@yahoo.com",
+        "firstName": "Reva",
+        "lastName": "Satterfield",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/349.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "43a1657f-a8f9-44ad-ab6f-4005c7bc8bd0",
+        "email": "Nestor.Gutkowski@yahoo.com",
+        "firstName": "Lia",
+        "lastName": "Emmerich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99801180",
+        "tenantId": null
+      },
+      {
+        "reference": "54e422ed-f061-439b-baf1-7273cf073b9e",
+        "email": "Immanuel36@yahoo.com",
+        "firstName": "Davion",
+        "lastName": "Hartmann",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/306.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3cf25bbe-1ca1-435e-90f3-a96f7a0d4166",
+        "email": "Tremayne_Hahn96@hotmail.com",
+        "firstName": "Lenna",
+        "lastName": "Romaguera",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/232.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "invitation": [
+      {
+        "id": "6419b50a-a0b2-4d60-ad86-fd6f1f75f497",
+        "status": "Pending",
+        "sent_at": "2023-08-30T05:26:30.115Z",
+        "accepted_at": "2023-08-30T05:51:53.932Z",
+        "created_at": "2023-08-30T23:35:02.619Z",
+        "updated_at": "2023-08-31T00:50:24.779Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "73a368c0-57a5-47f8-a985-c1002bf07e49",
+        "status": "Accepted",
+        "sent_at": "2023-08-30T15:45:10.335Z",
+        "accepted_at": "2023-08-30T23:12:04.526Z",
+        "created_at": "2023-08-30T12:24:28.096Z",
+        "updated_at": "2023-08-31T00:41:57.624Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7df13a7e-5001-42f8-906f-96dead2d1879",
+        "status": "Declined",
+        "sent_at": "2023-08-30T15:22:44.179Z",
+        "accepted_at": "2023-08-30T22:10:40.920Z",
+        "created_at": "2023-08-30T08:21:49.311Z",
+        "updated_at": "2023-08-30T10:00:50.257Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "68ea6bf4-c2b1-4ef1-830f-40130d85c1b2",
+        "status": "Expired",
+        "sent_at": "2023-08-30T16:23:42.302Z",
+        "accepted_at": "2023-08-30T09:34:59.465Z",
+        "created_at": "2023-08-31T01:12:01.867Z",
+        "updated_at": "2023-08-30T13:05:00.590Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d41abe42-2698-4251-9d54-e16394489e33",
+        "status": "Cancelled",
+        "sent_at": "2023-08-30T07:54:59.661Z",
+        "accepted_at": "2023-08-30T10:28:02.028Z",
+        "created_at": "2023-08-30T17:18:30.626Z",
+        "updated_at": "2023-08-30T10:42:21.124Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "financial_record": [
+      {
+        "id": "29961a96-02e5-43aa-a7ac-16d012756900",
+        "transaction_date": "2023-08-30T12:14:37.840Z",
+        "amount": 94729,
+        "transaction_type": "Income",
+        "account_type": "Checking",
+        "description": "Monthly salary deposit",
+        "created_at": "2023-08-30T15:29:54.102Z",
+        "updated_at": "2023-08-30T08:19:46.166Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "04e30a6f-233d-48ea-afde-fdf02b73146b",
+        "transaction_date": "2023-08-30T03:37:17.129Z",
+        "amount": 66866,
+        "transaction_type": "Expense",
+        "account_type": "Savings",
+        "description": "Office rent payment",
+        "created_at": "2023-08-30T19:11:30.550Z",
+        "updated_at": "2023-08-30T20:36:53.557Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "80da1e74-25cd-407c-97dc-cdcd6420f926",
+        "transaction_date": "2023-08-31T02:14:11.407Z",
+        "amount": 87733,
+        "transaction_type": "Investment",
+        "account_type": "Credit Card",
+        "description": "Stock purchase",
+        "created_at": "2023-08-30T06:35:20.221Z",
+        "updated_at": "2023-08-31T01:06:31.790Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7e5d6ce7-0f4a-4498-81b9-e65085d40b6a",
+        "transaction_date": "2023-08-31T01:24:39.557Z",
+        "amount": 53956,
+        "transaction_type": "Loan",
+        "account_type": "Investment",
+        "description": "Loan repayment",
+        "created_at": "2023-08-30T18:37:20.727Z",
+        "updated_at": "2023-08-30T12:28:52.376Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "787925ca-773a-442c-8576-66f052959aac",
+        "transaction_date": "2023-08-30T21:47:46.592Z",
+        "amount": 90701,
+        "transaction_type": "Donation",
+        "account_type": "PayPal",
+        "description": "Charitable donation",
+        "created_at": "2023-08-30T06:49:27.521Z",
+        "updated_at": "2023-08-30T16:16:59.642Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "905569e8-6157-4b64-b779-79851b289340",
+        "email": "Karen.Hirthe@gmail.com",
+        "firstName": "Dennis",
+        "lastName": "Dickens",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94068972",
+        "tenantId": null
+      },
+      {
+        "reference": "5807b7b0-638c-4871-a1f0-cf5cdd2de130",
+        "email": "Alessandra.Frami@gmail.com",
+        "firstName": "Ashly",
+        "lastName": "Ankunding",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64186001",
+        "tenantId": null
+      },
+      {
+        "reference": "e5c3f1a3-6cdf-42f8-932b-5cbd31eaff94",
+        "email": "Henry89@yahoo.com",
+        "firstName": "Jaleel",
+        "lastName": "Lesch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30309073",
+        "tenantId": null
+      },
+      {
+        "reference": "5134731d-b4c9-4cf3-b487-ae9401ff46dc",
+        "email": "Jess25@gmail.com",
+        "firstName": "Travon",
+        "lastName": "Koch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1014.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f651d8a5-a5c0-46ee-8da7-c6d366002ca6",
+        "email": "June.Will@hotmail.com",
+        "firstName": "Kareem",
+        "lastName": "Yundt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84500331",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "invitation": [
+      {
+        "id": "6d22f4b4-4a6b-4a1a-9aa3-a8b5e80539e1",
+        "status": "Pending",
+        "sent_at": "2023-08-30T06:54:50.295Z",
+        "accepted_at": "2023-08-30T14:05:56.756Z",
+        "created_at": "2023-08-30T13:38:48.919Z",
+        "updated_at": "2023-08-31T00:13:10.271Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11d28d7a-d623-4a9c-8e0d-a54da27489ab",
+        "status": "Accepted",
+        "sent_at": "2023-08-30T21:55:20.491Z",
+        "accepted_at": "2023-08-30T07:42:40.993Z",
+        "created_at": "2023-08-30T21:23:04.151Z",
+        "updated_at": "2023-08-30T15:18:15.641Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "be74adc4-58d8-4436-99f5-d443b79f7057",
+        "status": "Declined",
+        "sent_at": "2023-08-30T19:24:26.977Z",
+        "accepted_at": "2023-08-30T09:42:07.538Z",
+        "created_at": "2023-08-30T09:49:37.511Z",
+        "updated_at": "2023-08-30T19:30:31.032Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f7619ab-1110-4e0a-8fb4-44431e8525d5",
+        "status": "Expired",
+        "sent_at": "2023-08-31T00:17:18.081Z",
+        "accepted_at": "2023-08-30T09:29:36.828Z",
+        "created_at": "2023-08-30T16:12:05.033Z",
+        "updated_at": "2023-08-30T11:19:10.958Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a022074-3e82-4bcc-bdcf-9f454aaf1082",
+        "status": "Cancelled",
+        "sent_at": "2023-08-30T17:09:30.741Z",
+        "accepted_at": "2023-08-30T02:50:37.983Z",
+        "created_at": "2023-08-30T02:50:10.461Z",
+        "updated_at": "2023-08-30T13:10:03.875Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "financial_record": [
+      {
+        "id": "1481c3af-47e2-4f15-b563-10c9edfdfd59",
+        "transaction_date": "2023-08-31T00:47:34.383Z",
+        "amount": 24091,
+        "transaction_type": "Income",
+        "account_type": "Savings",
+        "description": "Payment for services rendered",
+        "created_at": "2023-08-30T10:55:49.521Z",
+        "updated_at": "2023-08-30T05:06:38.639Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "074aef59-2cfa-4732-bc2f-2cb008af6b1e",
+        "transaction_date": "2023-08-30T09:32:15.181Z",
+        "amount": 42379,
+        "transaction_type": "Expense",
+        "account_type": "Checking",
+        "description": "Purchase of office supplies",
+        "created_at": "2023-08-30T04:49:55.324Z",
+        "updated_at": "2023-08-30T20:18:31.842Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3e9a3ea3-78a5-42f4-b0a3-2bf7f599651b",
+        "transaction_date": "2023-08-30T14:27:56.591Z",
+        "amount": 26321,
+        "transaction_type": "Investment",
+        "account_type": "Credit Card",
+        "description": "Stock market investment",
+        "created_at": "2023-08-30T05:16:43.048Z",
+        "updated_at": "2023-08-30T22:46:34.235Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "22c7e901-e62d-45d6-8bbc-3c91123761cd",
+        "transaction_date": "2023-08-30T20:51:01.638Z",
+        "amount": 16063,
+        "transaction_type": "Donation",
+        "account_type": "Investment",
+        "description": "Charitable donation",
+        "created_at": "2023-08-30T07:57:06.952Z",
+        "updated_at": "2023-08-31T00:53:02.648Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aede1367-072a-47ae-abbd-b51803b798aa",
+        "transaction_date": "2023-08-30T07:41:01.589Z",
+        "amount": 88929,
+        "transaction_type": "Loan",
+        "account_type": "Loan",
+        "description": "Loan repayment",
+        "created_at": "2023-08-30T20:42:27.341Z",
+        "updated_at": "2023-08-30T10:24:08.661Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5d599566-6a4e-41e2-ad3b-e10c501278bd",
+        "email": "Adell_Feest41@yahoo.com",
+        "firstName": "Zelda",
+        "lastName": "Mertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1245.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "03898c7c-9d7c-45f8-9a09-09aad2571829",
+        "email": "Bernardo76@yahoo.com",
+        "firstName": "Isaiah",
+        "lastName": "Koch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/13.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6a65172d-5fdd-4528-896b-466141345d65",
+        "email": "Estevan_Langosh93@yahoo.com",
+        "firstName": "Garth",
+        "lastName": "Schamberger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/434.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3879d7f1-671e-466d-9b56-19dbe1a37800",
+        "email": "Conner_Mayert39@gmail.com",
+        "firstName": "Jana",
+        "lastName": "Kohler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/280.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cf7ec657-3f13-433c-9420-6f402d660907",
+        "email": "Felicia.Mohr-DAmore1@hotmail.com",
+        "firstName": "Haven",
+        "lastName": "Goldner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4761802",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "invitation": [
+      {
+        "id": "075b7c1c-7ec2-4e78-af8a-7fd44b2edf63",
+        "status": "Pending",
+        "sent_at": "2023-08-30T03:32:53.976Z",
+        "accepted_at": "2023-08-30T09:14:06.876Z",
+        "created_at": "2023-08-30T09:41:58.142Z",
+        "updated_at": "2023-08-31T02:30:44.234Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "deb37e32-3997-4dcf-8a6a-9a6edde1e03e",
+        "status": "Accepted",
+        "sent_at": "2023-08-30T14:02:10.576Z",
+        "accepted_at": "2023-08-31T02:36:18.805Z",
+        "created_at": "2023-08-30T20:06:12.893Z",
+        "updated_at": "2023-08-30T16:27:32.019Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1e9701a5-f0bf-4ed5-a4b0-20c6c755bbfa",
+        "status": "Declined",
+        "sent_at": "2023-08-30T18:59:14.017Z",
+        "accepted_at": "2023-08-30T20:52:08.444Z",
+        "created_at": "2023-08-31T01:30:23.092Z",
+        "updated_at": "2023-08-30T04:35:20.655Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "aa2e9567-d292-49c5-aafa-22201410b86b",
+        "status": "Expired",
+        "sent_at": "2023-08-30T05:37:50.517Z",
+        "accepted_at": "2023-08-30T14:44:53.986Z",
+        "created_at": "2023-08-30T17:58:40.068Z",
+        "updated_at": "2023-08-30T14:16:08.967Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "941c0c79-becf-4b22-b61c-8db07aacd5f3",
+        "status": "Cancelled",
+        "sent_at": "2023-08-30T15:25:14.715Z",
+        "accepted_at": "2023-08-30T13:05:34.486Z",
+        "created_at": "2023-08-30T04:13:36.539Z",
+        "updated_at": "2023-08-30T18:58:44.235Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "financial_record": [
+      {
+        "id": "56956e5d-6544-4c72-97f0-f7e96a58cbeb",
+        "transaction_date": "2023-08-30T22:20:07.456Z",
+        "amount": 74452,
+        "transaction_type": "Payment",
+        "account_type": "Checking",
+        "description": "Purchase of office supplies",
+        "created_at": "2023-08-30T04:46:33.507Z",
+        "updated_at": "2023-08-30T18:33:43.456Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "82fe2a58-02dd-4e74-9f77-3730f8362d55",
+        "transaction_date": "2023-08-30T12:52:10.001Z",
+        "amount": 97514,
+        "transaction_type": "Deposit",
+        "account_type": "Savings",
+        "description": "Salary payment to employees",
+        "created_at": "2023-08-30T17:36:55.434Z",
+        "updated_at": "2023-08-30T13:13:57.537Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dab98c68-a34b-43ee-bd22-191e25cdbdd6",
+        "transaction_date": "2023-08-30T12:49:05.808Z",
+        "amount": 24832,
+        "transaction_type": "Withdrawal",
+        "account_type": "Credit Card",
+        "description": "Payment for services rendered",
+        "created_at": "2023-08-30T20:58:04.267Z",
+        "updated_at": "2023-08-30T21:51:00.201Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d6c02d87-78e7-4349-b7c8-01c5697aa9da",
+        "transaction_date": "2023-08-30T14:33:58.537Z",
+        "amount": 5863,
+        "transaction_type": "Transfer",
+        "account_type": "Investment",
+        "description": "Investment in stocks",
+        "created_at": "2023-08-31T01:12:05.686Z",
+        "updated_at": "2023-08-30T09:16:41.625Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f014184d-d73f-416a-a302-e7df3d42faed",
+        "transaction_date": "2023-08-31T00:45:37.924Z",
+        "amount": 21164,
+        "transaction_type": "Refund",
+        "account_type": "Loan",
+        "description": "Loan repayment",
+        "created_at": "2023-08-30T10:01:47.378Z",
+        "updated_at": "2023-08-30T21:25:17.902Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5a8f78a3-7fc6-4d9f-a9f9-ab2174352928",
+        "email": "Geovany_Parisian@hotmail.com",
+        "firstName": "Alvah",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81680662",
+        "tenantId": null
+      },
+      {
+        "reference": "a2a32554-ef97-4159-8737-04a4fe9ad279",
+        "email": "Armando.Cormier@gmail.com",
+        "firstName": "Carrie",
+        "lastName": "Satterfield",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1061.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d17ecd41-a528-471d-a568-9a86b364e57c",
+        "email": "Candido23@yahoo.com",
+        "firstName": "Ollie",
+        "lastName": "Robel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1031.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "67cf6a63-7549-48aa-b9da-f45db9132b5a",
+        "email": "Loraine.Morar@yahoo.com",
+        "firstName": "Kimberly",
+        "lastName": "Hilpert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37236726",
+        "tenantId": null
+      },
+      {
+        "reference": "45259e51-6a7d-433e-8153-953c2a4609bd",
+        "email": "Dawson_Zieme@gmail.com",
+        "firstName": "Abigale",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16989688",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "invitation": [
+      {
+        "id": "5a6dd326-2324-45a4-a717-2f4087ea9488",
+        "status": "Pending",
+        "sent_at": "2023-08-30T21:48:08.904Z",
+        "accepted_at": "2023-08-30T17:52:13.400Z",
+        "created_at": "2023-08-30T23:50:37.283Z",
+        "updated_at": "2023-08-30T17:07:46.692Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4e0068ff-5440-4b35-8db7-059bc729f1eb",
+        "status": "Accepted",
+        "sent_at": "2023-08-30T18:10:34.376Z",
+        "accepted_at": "2023-08-30T20:34:32.876Z",
+        "created_at": "2023-08-31T00:50:14.604Z",
+        "updated_at": "2023-08-30T21:49:22.231Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e60ac4f3-f184-4ced-af3b-7ddb4b8ee842",
+        "status": "Declined",
+        "sent_at": "2023-08-31T00:44:50.678Z",
+        "accepted_at": "2023-08-30T11:07:18.390Z",
+        "created_at": "2023-08-30T13:18:41.725Z",
+        "updated_at": "2023-08-30T15:56:38.302Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d1fcca9-9b99-4980-b78d-721cf9ec448b",
+        "status": "Expired",
+        "sent_at": "2023-08-30T06:18:04.375Z",
+        "accepted_at": "2023-08-30T05:53:13.482Z",
+        "created_at": "2023-08-31T00:00:11.301Z",
+        "updated_at": "2023-08-30T10:25:02.346Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f208b44c-233d-470e-b9c1-8f957703ec77",
+        "status": "Cancelled",
+        "sent_at": "2023-08-30T11:00:23.270Z",
+        "accepted_at": "2023-08-30T07:00:26.119Z",
+        "created_at": "2023-08-30T06:22:37.256Z",
+        "updated_at": "2023-08-31T00:45:10.835Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "financial_record": [
+      {
+        "id": "e49fec15-3edc-42a5-bf3c-daaf97e1a256",
+        "transaction_date": "2023-08-30T16:06:43.743Z",
+        "amount": 4390,
+        "transaction_type": "Income",
+        "account_type": "Savings",
+        "description": "Payment for services rendered",
+        "created_at": "2023-08-30T20:35:34.537Z",
+        "updated_at": "2023-08-30T04:44:07.020Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "77982046-fa47-41e0-9628-fa2444bce535",
+        "transaction_date": "2023-08-30T08:17:03.100Z",
+        "amount": 14990,
+        "transaction_type": "Expense",
+        "account_type": "Checking",
+        "description": "Purchase of office supplies",
+        "created_at": "2023-08-30T11:23:16.410Z",
+        "updated_at": "2023-08-30T20:45:32.951Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "967196fb-f678-4729-ada7-2151518d515c",
+        "transaction_date": "2023-08-31T00:10:36.607Z",
+        "amount": 66575,
+        "transaction_type": "Investment",
+        "account_type": "Credit Card",
+        "description": "Stock market trade",
+        "created_at": "2023-08-30T03:34:12.371Z",
+        "updated_at": "2023-08-30T13:43:47.592Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2500037a-5650-4576-a452-091daa8483d4",
+        "transaction_date": "2023-08-30T12:38:45.384Z",
+        "amount": 25021,
+        "transaction_type": "Loan",
+        "account_type": "Investment",
+        "description": "Loan repayment",
+        "created_at": "2023-08-30T15:33:08.226Z",
+        "updated_at": "2023-08-30T02:56:29.972Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "10807c3d-a15e-4520-b93c-d74f5edbcf2b",
+        "transaction_date": "2023-08-30T04:15:27.343Z",
+        "amount": 94848,
+        "transaction_type": "Donation",
+        "account_type": "Loan",
+        "description": "Charitable donation",
+        "created_at": "2023-08-30T18:32:21.772Z",
+        "updated_at": "2023-08-30T06:37:40.360Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4e36bb07-04df-4e1e-b84d-96fa2a2c3c34",
+        "email": "Lamar.Grady@hotmail.com",
+        "firstName": "Micaela",
+        "lastName": "O'Connell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1054.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0c22a6dd-cfe5-4caa-92a4-55e89171e53c",
+        "email": "Ilene27@gmail.com",
+        "firstName": "Effie",
+        "lastName": "Lakin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1124.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a11a5500-c16e-4b1c-b3b8-d1bee637dbae",
+        "email": "Nellie_McGlynn93@gmail.com",
+        "firstName": "Jackson",
+        "lastName": "King",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30774649",
+        "tenantId": null
+      },
+      {
+        "reference": "678b0f03-b2aa-4c88-8347-0720c7ab9baf",
+        "email": "Jada72@hotmail.com",
+        "firstName": "Adella",
+        "lastName": "Boyle",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/516.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "033e889e-86a8-4e05-b2ea-9201bd503a99",
+        "email": "Larissa_Goyette@hotmail.com",
+        "firstName": "Walter",
+        "lastName": "Fisher",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62896520",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "invitation": [
+      {
+        "id": "281a9559-c62b-4e72-a5cc-1c2299078173",
+        "status": "Pending",
+        "sent_at": "2023-08-30T19:43:29.912Z",
+        "accepted_at": "2023-08-30T12:43:40.682Z",
+        "created_at": "2023-08-30T13:15:39.753Z",
+        "updated_at": "2023-08-30T21:06:05.878Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9734302b-0a88-43f1-9d84-3984e52dcd72",
+        "status": "Accepted",
+        "sent_at": "2023-08-30T08:03:58.425Z",
+        "accepted_at": "2023-08-30T18:10:38.440Z",
+        "created_at": "2023-08-30T10:04:01.334Z",
+        "updated_at": "2023-08-30T15:14:20.383Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "efa05ff1-35d7-44f8-b756-a21b93d8ae14",
+        "status": "Declined",
+        "sent_at": "2023-08-30T09:45:59.190Z",
+        "accepted_at": "2023-08-30T13:20:20.114Z",
+        "created_at": "2023-08-30T17:55:45.346Z",
+        "updated_at": "2023-08-30T11:21:42.556Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "45586bc6-048c-449b-8de5-90d3999c5bbb",
+        "status": "Expired",
+        "sent_at": "2023-08-30T04:03:36.500Z",
+        "accepted_at": "2023-08-30T15:51:56.315Z",
+        "created_at": "2023-08-31T01:15:31.586Z",
+        "updated_at": "2023-08-30T04:03:26.361Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "47a63519-0b4f-47f6-a751-28b26053baaf",
+        "status": "Cancelled",
+        "sent_at": "2023-08-30T14:29:26.442Z",
+        "accepted_at": "2023-08-30T08:03:12.752Z",
+        "created_at": "2023-08-31T00:13:10.754Z",
+        "updated_at": "2023-08-30T15:12:42.693Z",
+        "organization_id": "main_entity_pk",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "financial_record": [
+      {
+        "id": "e9b2eb89-fa9c-47ee-906f-637d3817b111",
+        "transaction_date": "2023-08-30T23:57:18.235Z",
+        "amount": 22677,
+        "transaction_type": "Deposit",
+        "account_type": "Checking",
+        "description": "Monthly rent payment",
+        "created_at": "2023-08-30T15:17:27.697Z",
+        "updated_at": "2023-08-30T06:17:03.989Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f8e7b2af-df68-469f-ab92-3677fd7751fd",
+        "transaction_date": "2023-08-30T19:38:58.383Z",
+        "amount": 95363,
+        "transaction_type": "Withdrawal",
+        "account_type": "Savings",
+        "description": "Purchase of office supplies",
+        "created_at": "2023-08-30T06:02:11.530Z",
+        "updated_at": "2023-08-31T00:08:59.743Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ed9fb172-8dec-43cc-a484-92fb840b88b8",
+        "transaction_date": "2023-08-31T01:19:50.968Z",
+        "amount": 460,
+        "transaction_type": "Transfer",
+        "account_type": "Credit Card",
+        "description": "Salary deposit",
+        "created_at": "2023-08-30T21:00:09.509Z",
+        "updated_at": "2023-08-30T09:48:13.384Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "baa7564a-ef57-4ef6-b363-f0422f89f8d8",
+        "transaction_date": "2023-08-30T20:30:45.661Z",
+        "amount": 95386,
+        "transaction_type": "Payment",
+        "account_type": "Investment",
+        "description": "Stock market investment",
+        "created_at": "2023-08-30T18:48:52.320Z",
+        "updated_at": "2023-08-30T22:12:40.771Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6d17b3cf-1fac-4865-8569-c1f33055a242",
+        "transaction_date": "2023-08-30T07:43:58.736Z",
+        "amount": 4521,
+        "transaction_type": "Refund",
+        "account_type": "Loan",
+        "description": "Loan repayment",
+        "created_at": "2023-08-30T15:36:29.547Z",
+        "updated_at": "2023-08-30T15:20:22.628Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "cb59fe89-9844-4375-9357-ea26554bb807",
+        "email": "Israel.Casper43@hotmail.com",
+        "firstName": "Lucious",
+        "lastName": "Jenkins",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44754541",
+        "tenantId": null
+      },
+      {
+        "reference": "8560d174-ba0f-43e8-bffe-4a7a7d761408",
+        "email": "Valentina.Keeling15@hotmail.com",
+        "firstName": "Matilde",
+        "lastName": "Mueller",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54171389",
+        "tenantId": null
+      },
+      {
+        "reference": "59e6b6c4-4792-497c-bb9c-2c48a1adca4e",
+        "email": "Tiara.Cormier19@gmail.com",
+        "firstName": "Flavio",
+        "lastName": "Towne",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34520685",
+        "tenantId": null
+      },
+      {
+        "reference": "b0722e43-c862-4f0c-bc40-ad41672fffe1",
+        "email": "Carmine92@gmail.com",
+        "firstName": "Aisha",
+        "lastName": "Quigley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4929893",
+        "tenantId": null
+      },
+      {
+        "reference": "64ce2b1b-7c3a-466c-867f-4d03a7bce7e4",
+        "email": "Marianne.Schumm@yahoo.com",
+        "firstName": "Alberto",
+        "lastName": "Buckridge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66301719",
+        "tenantId": null
+      }
+    ]
+  }
+]
